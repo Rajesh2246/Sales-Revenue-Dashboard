@@ -188,4 +188,8 @@ GROUP BY Region;
 - **Predictive Analytics**: Use historical data for forecasting sales trends.
 - **Real-Time Integration**: Connect live data streams for real-time updates.
 
+- 
 ---
+## Dashboard
+- <img width="719" alt="Screenshot 2025-01-01 114530" src="https://github.com/user-attachments/assets/06c5632b-17ac-468e-9887-a63fb3160fbb" />
+

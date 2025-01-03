@@ -189,5 +189,3 @@ GROUP BY Region;
 - **Real-Time Integration**: Connect live data streams for real-time updates.
 
 ---
-
-Feel free to reach out if you need further details or support in extending this project!
